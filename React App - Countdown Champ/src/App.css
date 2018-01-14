@@ -1,0 +1,21 @@
+.App {
+	text-align: center;
+	font-size: 35px;
+	margin: 12%;
+}
+
+.App-title {
+	font-size: 50px;
+}
+
+.App-clock {
+	display: flex;
+	padding: 0 100px;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.Deadline-input {
+	font-size: 25px;
+	margin: 5px;
+}
